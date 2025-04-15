@@ -29,6 +29,18 @@
 </li>
       
   </ul>
+ <br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joth-Alt/Joth-Alt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joth-Alt/Joth-Alt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Joth-Alt/Joth-Alt/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<br clear="both">
+
+  
   </div>
 
   <div style="margin-top: 30px; background-color:#3a3427; padding: 25px; border-radius: 20px;">
@@ -48,16 +60,6 @@ JOGO FODDAAA [**matar demonios.com**](https://archive.org/details/doom-play)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joth-Alt/Joth-Alt/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joth-Alt/Joth-Alt/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Joth-Alt/Joth-Alt/output/pacman-contribution-graph.svg">
-</picture>
-
-
-<br clear="both">
 
 <img align="right" height="350" src="https://i.pinimg.com/originals/db/9b/65/db9b654e5cf55f11e14a207ebe995a28.gif"  />
 

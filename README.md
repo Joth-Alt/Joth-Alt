@@ -53,21 +53,3 @@ JOGO FODDAAA [**matar demonios.com**](https://archive.org/details/doom-play)
 
 ![Meu GIF](https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gif)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-
-<img align="right" height="350" src="https://i.pinimg.com/originals/db/9b/65/db9b654e5cf55f11e14a207ebe995a28.gif"  />
-
-###
-
-<img align="left" height="350" src="https://i.pinimg.com/originals/2d/0b/05/2d0b05a2e24c721fabdc51936728b6d8.gif"  />
-
-###

@@ -1,6 +1,6 @@
 <div style="background-color:#dfe3c2; padding: 30px; border-radius: 20px; color:#060605; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-  <h1 style="color:#3a3427; font-size: 3em; text-align: center;">Resumo Feito com má vontade</h1>
+  <h1 style="color:#3a3427; font-size: 3em; text-align: center;">Meu Git Hub</h1>
   <p style="font-size: 1.2em; text-align: center; font-weight: bold; color:#46472b;">Estudante de Técnico em Desenvolvimento de Sistemas - SENAI</p>
  
   

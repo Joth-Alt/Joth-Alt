@@ -30,14 +30,3 @@
   </ul>
 
 <br clear="both">
-
-  
-  </div>
-
-  <div style="margin-top: 30px; background-color:#3a3427; padding: 25px; border-radius: 20px;">
-    <h3 style="color:#dfe3c2; text-align: center;">Destaque</h3>
-
-JOGO FODDAAA [**matar demonios.com**](https://archive.org/details/doom-play)
-
-![Meu GIF](https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gif)
-

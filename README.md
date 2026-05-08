@@ -1,74 +1,190 @@
-<div style="background: linear-gradient(180deg, #0a0000, #1a0000, #300000); padding: 35px; border-radius: 25px; border: 3px solid #8b0000; box-shadow: 0 0 30px #ff000055; color:#f5dcdc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center">
 
-  <h1 align="center" style="font-size: 3.5em; color:#ff1e1e; text-shadow: 0 0 20px #ff0000;">
-    J0TH 
-  </h1>
-
-  <p align="center" style="font-size: 1.2em; color:#ff8a8a;">
-    Estudante de Técnico em Desenvolvimento de Sistemas - SENAI
-  </p>
-
-  <img align="right" height="220" src="https://media.tenor.com/Fdkj4Xv6q0YAAAAC/blood.gif"/>
-
-  <p style="font-size: 1.1em; line-height: 1.8; color:#ffd6d6;">
-    Oi... meu nome é João Lucas.  
-    Sou estudante de Desenvolvimento de Sistemas no SENAI.  
-    Curto concept art, desenhos no geral e tô começando a mexer com HTML e CSS no Visual Studio.  
-    Também pretendo voltar a estudar edição de vídeo.  
-  </p>
-
-  <br>
-
-  <div align="left">
-
-  <a href="https://www.youtube.com/@J0TH_" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-8B0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-  <a href="https://www.twitch.tv/j0th_" target="_blank">
-    <img src="https://img.shields.io/badge/TWITCH-2b002b?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/1JOTH" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1a0000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-
-  </div>
-
-  <br><br>
-
-  <div style="background-color:#160000; padding: 25px; border-radius: 20px; border: 2px solid #5a0000; box-shadow: inset 0 0 20px #ff000022;">
-
-  <h2 style="color:#ff3c3c; font-size: 2.2em;">
-    🔪 O que eu quero aprender:
-  </h2>
-
-  <ul style="font-size: 1.1em; color:#ffe5e5; line-height: 2;">
-    <li>Game Maker (Programação de Jogos)</li>
-    <li>Unreal Engine</li>
-    <li>C++</li>
-    <li>Pixel Art & Concept Art</li>
-    <li>Edição de Vídeo</li>
-  </ul>
-
-  </div>
-
-  <br>
-
-  <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=8b0000"/>
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8b0000"/>
-
-  </div>
-
-  <br>
-
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+dark+profile...;Game+Developer+in+progress...;HTML+%7C+CSS+%7C+C%2B%2B+%7C+Art"/>
-  </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00c6ff,50:0072ff,100:8affff&text=J0TH&fontAlign=50&fontAlignY=40&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
+
+<div style="
+background: linear-gradient(180deg,#79dfff,#00a2ff,#0077ff,#6affc7);
+background-size: 400% 400%;
+animation: bgmove 15s ease infinite;
+padding:40px;
+border-radius:30px;
+border:3px solid rgba(255,255,255,0.4);
+box-shadow:0 0 40px rgba(0,255,255,0.5);
+font-family:'Segoe UI',sans-serif;
+backdrop-filter: blur(10px);
+position:relative;
+overflow:hidden;
+">
+
+<!-- bolhas -->
+<div style="
+position:absolute;
+width:500px;
+height:500px;
+background:radial-gradient(circle,rgba(255,255,255,0.25),transparent);
+top:-200px;
+right:-150px;
+border-radius:50%;
+animation: float 7s ease-in-out infinite;
+"></div>
+
+<div style="
+position:absolute;
+width:300px;
+height:300px;
+background:radial-gradient(circle,rgba(255,255,255,0.15),transparent);
+bottom:-100px;
+left:-100px;
+border-radius:50%;
+animation: float2 9s ease-in-out infinite;
+"></div>
+
+<h1 align="center" style="
+font-size:4em;
+color:white;
+text-shadow:
+0 0 10px #ffffff,
+0 0 20px #7df9ff,
+0 0 40px #00bfff;
+animation: glow 3s infinite alternate;
+">
+☁️ J0TH ☁️
+</h1>
+
+<p align="center" style="
+font-size:1.2em;
+color:#ffffff;
+text-shadow:0 0 10px rgba(255,255,255,0.7);
+">
+🌼 Técnico em Desenvolvimento de Sistemas - SENAI 🌼
+</p>
+
+<br>
+
+<img align="right" height="220" src="https://media.tenor.com/zrR4FUE6vWAAAAAC/anime-sky.gif" style="
+border-radius:20px;
+box-shadow:0 0 25px rgba(255,255,255,0.5);
+border:2px solid rgba(255,255,255,0.4);
+"/>
+
+<h2 style="
+color:white;
+font-size:2em;
+text-shadow:0 0 15px #7df9ff;
+">
+🌤️ Sobre mim
+</h2>
+
+<p style="
+font-size:1.1em;
+line-height:1.8;
+color:white;
+max-width:700px;
+">
+Oi, meu nome é João Lucas ✨  
+Curto concept art, desenhos e tô começando no HTML/CSS usando Visual Studio.  
+Também quero voltar pra edição de vídeo e estudar desenvolvimento de jogos 🎮
+</p>
+
+<br>
+
+<h2 style="
+color:white;
+font-size:2em;
+text-shadow:0 0 15px #7df9ff;
+">
+🫧 Aprendendo
+</h2>
+
+<div style="
+display:flex;
+flex-wrap:wrap;
+gap:15px;
+">
+
+<img src="https://img.shields.io/badge/GameMaker-00d9ff?style=for-the-badge&logo=gamemaker&logoColor=white"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0d1117?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-009dff?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-ff7b00?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-0099ff?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=7df9ff&border_color=7df9ff"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=7df9ff"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.youtube.com/@J0TH_" target="_blank">
+<img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.twitch.tv/j0th_" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
+
+<a href="https://x.com/1JOTH" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-00bfff?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=welcome+to+my+dreamy+profile...;future+game+developer...;html+css+cpp+art+video+editing"/>
+
+</div>
+
+</div>
+
+<style>
+
+@keyframes bgmove{
+0%{background-position:0% 50%;}
+50%{background-position:100% 50%;}
+100%{background-position:0% 50%;}
+}
+
+@keyframes glow{
+from{
+text-shadow:
+0 0 10px #fff,
+0 0 20px #7df9ff,
+0 0 40px #00bfff;
+}
+to{
+text-shadow:
+0 0 20px #fff,
+0 0 40px #7df9ff,
+0 0 60px #00bfff;
+}
+}
+
+@keyframes float{
+0%{transform:translateY(0px);}
+50%{transform:translateY(25px);}
+100%{transform:translateY(0px);}
+}
+
+@keyframes float2{
+0%{transform:translateY(0px);}
+50%{transform:translateY(-20px);}
+100%{transform:translateY(0px);}
+}
+
+</style>

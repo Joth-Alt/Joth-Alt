@@ -51,7 +51,7 @@ text-shadow:
 0 0 40px #ff7b00;
 animation: glow 3s infinite alternate;
 ">
-🔥 J0TH 🔥
+ J0TH 
 </h1>
 
 <p align="center" style="
@@ -59,7 +59,7 @@ font-size:1.2em;
 color:#ffffff;
 text-shadow:0 0 10px rgba(255,255,255,0.7);
 ">
-🌼 Técnico em Desenvolvimento de Sistemas - SENAI 🌼
+ Técnico em Desenvolvimento de Sistemas - SENAI 
 </p>
 
 <br>
@@ -75,7 +75,7 @@ color:white;
 font-size:2em;
 text-shadow:0 0 15px #ffb347;
 ">
-🌅 Sobre mim
+Sobre mim
 </h2>
 
 <p style="
@@ -84,7 +84,7 @@ line-height:1.8;
 color:white;
 max-width:700px;
 ">
-Oi, meu nome é João Lucas ✨  
+Oi, meu nome é João Lucas   
 Curto concept art, desenhos e tô começando no HTML/CSS usando Visual Studio.  
 Também quero voltar pra edição de vídeo e estudar desenvolvimento de jogos 🎮
 </p>
@@ -96,7 +96,7 @@ color:white;
 font-size:2em;
 text-shadow:0 0 15px #ffb347;
 ">
-🧡 Aprendendo
+Aprendendo
 </h2>
 
 <div style="
